@@ -1,6 +1,3 @@
-# To my post-grad students
-
-
 
 ## Before you start
 
