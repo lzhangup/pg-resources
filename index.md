@@ -20,6 +20,6 @@ Please read the following articles on some basic advices for your post-grad stud
 - You can find many books [here](https://z-lib.org). Please search "the Z-library project " to find the most usable link in case this one does not work.
 
 
-- Read this book many times to improve your English writing: [The Elements of Style (2011) by William Strunk, Chris Hong.pdf](The Elements of Style (2011) by William Strunk, Chris Hong.pdf) 
+- Read this book over and over to improve your English writing: [The Elements of Style (2011) by William Strunk, Chris Hong.pdf](The Elements of Style (2011) by William Strunk, Chris Hong.pdf) 
 
 
