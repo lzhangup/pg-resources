@@ -6,14 +6,14 @@
 
 Please read the following articles on some basic advices for your post-grad study:
 
-- [给研究生的一些忠告](http://sixf.org/files/others/ModestAdvice.pdf): http://sixf.org/files/others/ModestAdvice.pdf)
-- [作为研究生，这些你都做到了吗?](https://mp.weixin.qq.com/s/A-9HTiefweSP1CvJrcSirA): https://mp.weixin.qq.com/s/A-9HTiefweSP1CvJrcSirA
+- [给研究生的一些忠告](http://sixf.org/files/others/ModestAdvice.pdf)
+- [作为研究生，这些你都做到了吗?](https://mp.weixin.qq.com/s/A-9HTiefweSP1CvJrcSirA)
 
 ## LaTeX related guides
 
-- [First guide to LaTeX](https://mirrors.nic.cz/tex-archive/info/lshort/english/lshort.pdf): https://mirrors.nic.cz/tex-archive/info/lshort/english/lshort.pdf
-- [LaTeX editor](LaTeX论文写作神器Sublime Text.pdf) 
-- [LaTeX图形](http://www.ctex.org/documents/latex/graphics/node2.html): http://www.ctex.org/documents/latex/graphics/node2.html)
+- [First guide to LaTeX](https://mirrors.nic.cz/tex-archive/info/lshort/english/lshort.pdf)
+- [LaTeX editor](https://github.com/lzhangup/pg-resources/files/6258028/LaTeX.Sublime.Text.pdf)
+- [LaTeX图形](http://www.ctex.org/documents/latex/graphics/node2.html)
 
 ## Useful resources
 
