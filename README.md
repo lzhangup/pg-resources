@@ -1,2 +1,3 @@
 # pg-resources
-This is where some useful resources for my post-grad students are hosted
+
+This is Lijun Zhang. Here is a place where i keep some useful resources to help my post-grad students to get started with their studies.
