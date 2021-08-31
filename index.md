@@ -17,31 +17,31 @@ Also, read the following articles on some basic advice for your post-grad study:
 
 In the following, I will try to answer some commonly asked questions about your post-grad studies. 
 
-## How to choose a research topic
+# How to choose a research topic
 There are ***TWO*** important things to keep in mind. 
 
 Firstly, check out the research interests of your supervisor if you already have one (***very important***). This is to make sure that you do not work on something your supervisor is unable/unwilling to provide guidance.
 
 Secondly, take a look at the following slides from Marek J. Druzdzel to get an idea about what makes a good topic: [How to Identify a Good Research Topic? (A personal view)](https://sites.pitt.edu/~peterb/3005-001/L5.pdf).
 
-## How to find information
+# How to find information
 The source of information can be the internet, academic databases, libraries, etc. In most cases, you are going to use a combination of these sources. There is a quite lengthy book on this matter: [How to Find Information: A Guide for Researchers](https://www.mheducation.co.uk/how-to-find-information-a-guide-for-researchers-9780335226313-emea-group). However, you can read [this guide](https://www.open.ac.uk/libraryservices/documents/advanced-search-techniques.pdf) on how to search databases effectively.
 
-## How to read and get organised
+# How to read and get organised
 Recording keeping is vital in the process of your study. Being keeping a good record of articles you retrieved at the information gathering stage, your notes on a specific paper, or your study progress. Failing to do so may result in headaches and wasting of time for days or months. 
 
 In this regard, several free tools could help you out. For bibliographic reference management, I recommend [Mendeley](https://www.mendeley.com/download-desktop-new/). [This website](https://www.mendeley.com/guides) and [this guide](https://stglibrary.files.wordpress.com/2018/07/how-to-use-mendeley-a-step-by-step-guide.pdf) are useful resources to help you get started with Mendeley. 
 
 You can also check out other tools like [JabRef](https://www.jabref.org/), EndNote (you can get a copy of this proprietary software through the library service I think), etc.
-## How to communicate your research
+# How to communicate your research
 Communicating with others effectively is part of our survival skills. The same applies to academics (of course😀). In the academic world, researchers often need to communicate their findings to others and receive feedback. This includes attending seminars, workshops and conferences, and publishing articles in journals and magazines and so on.
 
-### Guides on attending meetings
+## Guides on attending meetings
 ***Preparation*** is the key to attending group seminars, workshops and conferences, as is for anything. Be prepared allows you to focus on the topics that you are interested in, ask questions that concern you the most, and communicate effectively with others.
 
 [Here](https://mp.weixin.qq.com/s/HTYUcEjPggHgrTHJHqsTQw) is an interesting article on attending international conferences which also offers some useful advice.
 
-### Guides on academic publishing
+## Guides on academic publishing
 Publishing an article requires hard work not only on how to identify a good research question and finding answers to that question but also on writing up a report, which usually needs to go through iterations of revisions. For most of you, publishing an article is a compulsory requirement to confirm your degree. So, do pay special attention to publishing. My advice is to discuss with your supervisor at the beginning of your study (as early as you have identified your research topic).
 
 Again, there are many books on scientific writing and publishing. For example, here are two books that provide all-around guidance on this matter:
@@ -56,14 +56,14 @@ The ***most important*** things are summarised below:
 3. Whatever findings you are publishing ***MUST*** be _quantifiable, verifiable, replicable, and defensible_. Academic dishonesty and plagiarism will result in serious consequences. 
 
 
-### LaTeX related guides
+## LaTeX related guides
 LaTeX is the most used typesetting tool for scientific writing. Please familiarise yourself with this. Your thesis/dissertation and articles should be typeset using LaTeX if possible.
 
 - [First guide to LaTeX](https://mirrors.nic.cz/tex-archive/info/lshort/english/lshort.pdf)
 - [LaTeX editor](https://github.com/lzhangup/pg-resources/files/6258028/LaTeX.Sublime.Text.pdf)
 - [LaTeX图形](http://www.ctex.org/documents/latex/graphics/node2.html)
 
-## Useful resources
+# Useful resources
 
 - You can find many books [here](https://z-lib.org). Please search "the Z-library project " to find the usable domain in your location in case this one does not work.
 
