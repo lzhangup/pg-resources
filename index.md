@@ -39,6 +39,19 @@ Communicating with others effectively is part of our survive skills. The same ap
 [Here](https://mp.weixin.qq.com/s/HTYUcEjPggHgrTHJHqsTQw) is an interesting article on attendinig international conferences which also offers some useful advices.
 
 ### Guides on academic publishing
+Publishing an article requires hard work not only on how to identify a good research question and finding answers to that question, but also on writing up a report, which usually needs to go through iterations of revisions. For the most of you, publishinig an article is a compulsory requirement to confirm your degree. So, do pay special attention to publishing. My advise is to discuss with your supervisor at the beginning of your study (as early as you have identified your research topic).
+
+Again, there are many books on scientific writing and publishing. For example, here are two books that provides all around guidance on this matter:
+- [Scientific Writing and Communication Papers, Proposals, and Presentations by Angelika H. Hofmann](https://www.amazon.com/Scientific-Writing-Communication-Proposals-Presentations/dp/0190278544)
+- [THE SCIENTIST’S GUIDE TO WRITING](https://press.princeton.edu/books/paperback/9780691170220/the-scientists-guide-to-writing)
+
+This short book is more on writing styles, which is also very useful: [The Elements of Style](https://github.com/lzhangup/pg-resources/files/6258685/The.Elements.of.Style.2011.by.William.Strunk.Chris.Hong.pdf). Read this book over and over to improve your English writing skills. 
+
+The ***most important*** things are summarised below:
+1. You ***MUST*** discuss the _topic, authorship, and target journal_ of your paper with your supervisor before you start your investigation.
+2. You ***MUST*** get _approval_ from your supervisor to submit the paper produced as a result of your post-grad study for publication. You do not need to do this if you are submitting a paper that is NOT on the findings of your current post-grad study. In the latter case, you may NOT include your current supervisor in your author list unless a prior permission is obtained.
+3. Whatever findings you are publishing ***MUST*** be _quantifiable, verifiable, replicable, and defensible_. The academic dishonesty and plagiarism will result in serious consequences. 
+
 
 ### LaTeX related guides
 LaTeX is the mostly used typeseting tool for scientific writing. Please familiarise yourself with this. Your thesis/dissertation and articles should be typeseted using LaTeX.
@@ -50,5 +63,4 @@ LaTeX is the mostly used typeseting tool for scientific writing. Please familiar
 ## Useful resources
 
 - You can find many books [here](https://z-lib.org). Please search "the Z-library project " to find the usable domain in your location in case this one does not work.
-- Read the book "The Elements of Style" by William Strunk and Chris Hong (2011) over and over to improve your English writing skills. [Here](https://github.com/lzhangup/pg-resources/files/6258685/The.Elements.of.Style.2011.by.William.Strunk.Chris.Hong.pdf)
- is a copy downloaded from the Z-library.
+
