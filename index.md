@@ -1,20 +1,26 @@
 
 ## Before you start
 
-Please read the following articles on some basic advices for your post-grad study:
+Now you have started your post-grad studies. Congratulations on you achievement so far and welcome to the academic world for the next three or more years! 
+
+A friendly reminder that this means a lot of responsibility and hard work. Shame! But, there are also brighter sides of your decision. You will learn many useful specialised knowledge and life skills to live a better life (possibly)!
+
+A second reminder is to check out the most import difference of a research-based post-grad programme from the school and undergrad education programmes [here](https://matt.might.net/articles/phd-school-in-pictures/).
+
+Also read the following articles on some basic advices for your post-grad study:
 
 - [给研究生的一些忠告](http://sixf.org/files/others/ModestAdvice.pdf)
 - [作为研究生，这些你都做到了吗?](https://mp.weixin.qq.com/s/A-9HTiefweSP1CvJrcSirA)
 
 ## How to choose your research topic
-There are two important things to keep in mind. 
+There are --**two**-- important things to keep in mind. 
 
 Firstly, check out the research interests of your supervisor if you already have one (**very important**). This is to make sure that you do not work on something your supervisor is unable/unwilling to provide guidance.
 
-Secondly, take a look at the following slides from Marek J. Druzdzel to get an idea about what makes a good topic.
-- [How to Identify a Good Research Topic? (A personal view)](https://sites.pitt.edu/~peterb/3005-001/L5.pdf)
+Secondly, take a look at the following slides from Marek J. Druzdzel to get an idea about what makes a good topic: [How to Identify a Good Research Topic? (A personal view)](https://sites.pitt.edu/~peterb/3005-001/L5.pdf)
 
 ## How to find information
+
 
 ## How to read and get organised
 
