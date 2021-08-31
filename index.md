@@ -7,7 +7,11 @@ Please read the following articles on some basic advices for your post-grad stud
 - [作为研究生，这些你都做到了吗?](https://mp.weixin.qq.com/s/A-9HTiefweSP1CvJrcSirA)
 
 ## How to choose your research topic
-Take a look at the following slides from Marek J. Druzdzel for starting.
+There are two important things to keep in mind. 
+
+Firstly, check out the research interests of your supervisor if you already have one (**very important**). This is to make sure that you do not work on something your supervisor is unable/unwilling to provide guidance.
+
+Secondly, take a look at the following slides from Marek J. Druzdzel to get an idea about what makes a good topic.
 - [How to Identify a Good Research Topic? (A personal view)](https://sites.pitt.edu/~peterb/3005-001/L5.pdf)
 
 ## How to find information
