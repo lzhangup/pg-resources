@@ -7,7 +7,7 @@ A friendly reminder that this means a lot of responsibility and hard work. Shame
 
 A second reminder is to check out the most import difference of a research-based post-grad programme from the school and undergrad education programmes from Prof Matt Might [here](https://matt.might.net/articles/phd-school-in-pictures/). By the way, he also published a number of useful guides for post-grad students on topics ranging from productivity, useful resources for researchers, and even job hunting. You can find them all from the same website.
 
-In short, research involves *finding out about things that no-one else knew either*. It is about advancing the *frontiers* of knowledge.
+> Research involves *finding out about things that no-one else knew either*. It is about advancing the *frontiers* of knowledge.
 
 Also read the following articles on some basic advices for your post-grad study:
 
