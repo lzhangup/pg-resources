@@ -25,8 +25,18 @@ Secondly, take a look at the following slides from Marek J. Druzdzel to get an i
 The source of information can be the internet, academic databases, libraries, etc. In most cases, you are going to use a combination of these sources. There is a quite lengthy book on this matter: [How to Find Information: A Guide for Researchers](https://www.mheducation.co.uk/how-to-find-information-a-guide-for-researchers-9780335226313-emea-group). However, you can read [this guide](https://www.open.ac.uk/libraryservices/documents/advanced-search-techniques.pdf) on how to search databases effectively.
 
 ## How to read and get organised
-Recording keeping is vital in the process of your study. Being keeping a good record of articles you retrived at the information gathering stage, your notes on a specific paper, or your study progress. Failing to do so may result in headaches and wasting of time for days or months. To this regards, there are several free tools that could help you out. For bibliographic reference managment, I personally recommend [Mendeley](https://www.mendeley.com/download-desktop-new/). [This website](https://www.mendeley.com/guides) and [this guide](https://stglibrary.files.wordpress.com/2018/07/how-to-use-mendeley-a-step-by-step-guide.pdf) are useful resources to help you get started with Mendeley. You can also check out others tools like [JabRef](https://www.jabref.org/), EndNote (you can get a copy of this proprietary software through the library service I think), etc.
-## How to publish
+Recording keeping is vital in the process of your study. Being keeping a good record of articles you retrived at the information gathering stage, your notes on a specific paper, or your study progress. Failing to do so may result in headaches and wasting of time for days or months. 
+
+To this regards, there are several free tools that could help you out. For bibliographic reference managment, I personally recommend [Mendeley](https://www.mendeley.com/download-desktop-new/). [This website](https://www.mendeley.com/guides) and [this guide](https://stglibrary.files.wordpress.com/2018/07/how-to-use-mendeley-a-step-by-step-guide.pdf) are useful resources to help you get started with Mendeley. 
+
+You can also check out others tools like [JabRef](https://www.jabref.org/), EndNote (you can get a copy of this proprietary software through the library service I think), etc.
+## How to communicate your research
+Communicating with others effectively is part of our survive skills. The same applies to academics (of course😀). In the academic world, researchers often need to communicate their findings to others and receive feedbacks. This includes attending seminars, workshops and conferences, and publishing articles in journals and magzines.
+
+### Guides on attending meetings
+**Preparation** is the key to attending group seminars, workshops and conferences, as is for anything. Be prepared allows you to focus on the topics that you are interested in, ask questions that concerns you the most, and communicate effectively with others.
+
+[Here](https://mp.weixin.qq.com/s/HTYUcEjPggHgrTHJHqsTQw) is an interesting article on attendinig international conferences which also offers some useful advices.
 
 ### Guides on academic publishing
 
