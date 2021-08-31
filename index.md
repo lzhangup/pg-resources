@@ -7,6 +7,8 @@ Please read the following articles on some basic advices for your post-grad stud
 - [作为研究生，这些你都做到了吗?](https://mp.weixin.qq.com/s/A-9HTiefweSP1CvJrcSirA)
 
 ## How to choose your research topic
+Take a look at the following slides from Marek J. Druzdzel for starting.
+- [How to Identify a Good Research Topic? (A personal view)](https://sites.pitt.edu/~peterb/3005-001/L5.pdf)
 
 ## How to find information
 
