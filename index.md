@@ -3,7 +3,7 @@
 
 Now you have started your post-grad studies. Congratulations on you achievement so far and welcome to the academic world for the next three or more years! 
 
-A friendly reminder that this means a lot of responsibility and hard work. Shame! But, there are also brighter sides of your decision. You will learn many useful specialised knowledge and life skills to live a better life (possibly)!
+A friendly reminder that this means a lot of responsibility and hard work. Shame! But, there are also bright sides of your decision. You will learn many useful specialised knowledge and life skills to live a better life (possibly)!
 
 A second reminder is to check out the most import difference of a research-based post-grad programme from the school and undergrad education programmes [here](https://matt.might.net/articles/phd-school-in-pictures/).
 
