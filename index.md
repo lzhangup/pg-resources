@@ -34,7 +34,7 @@ In this regard, several free tools could help you out. For bibliographic referen
 
 You can also check out other tools like [JabRef](https://www.jabref.org/), EndNote (you can get a copy of this proprietary software through the library service I think), etc.
 ## How to communicate your research
-Communicating with others effectively is part of our survival skills. The same applies to academics (of course😀). In the academic world, researchers often need to communicate their findings to others and receive feedback. This includes attending seminars, workshops and conferences, and publishing articles in journals and magazines.
+Communicating with others effectively is part of our survival skills. The same applies to academics (of course😀). In the academic world, researchers often need to communicate their findings to others and receive feedback. This includes attending seminars, workshops and conferences, and publishing articles in journals and magazines and so on.
 
 ### Guides on attending meetings
 ***Preparation*** is the key to attending group seminars, workshops and conferences, as is for anything. Be prepared allows you to focus on the topics that you are interested in, ask questions that concern you the most, and communicate effectively with others.
