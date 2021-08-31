@@ -12,7 +12,7 @@ Also read the following articles on some basic advices for your post-grad study:
 - [给研究生的一些忠告](http://sixf.org/files/others/ModestAdvice.pdf)
 - [作为研究生，这些你都做到了吗?](https://mp.weixin.qq.com/s/A-9HTiefweSP1CvJrcSirA)
 
-## How to choose your research topic
+## How to choose a research topic
 There are --**two**-- important things to keep in mind. 
 
 Firstly, check out the research interests of your supervisor if you already have one (**very important**). This is to make sure that you do not work on something your supervisor is unable/unwilling to provide guidance.
