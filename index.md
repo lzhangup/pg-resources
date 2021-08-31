@@ -14,6 +14,8 @@ Also, read the following articles on some basic advice for your post-grad study:
 - [给研究生的一些忠告](http://sixf.org/files/others/ModestAdvice.pdf)
 - [作为研究生，这些你都做到了吗?](https://mp.weixin.qq.com/s/A-9HTiefweSP1CvJrcSirA)
 
+In the following, I will try to answer some commonly asked questions about your post-grad studies. 
+
 ## How to choose a research topic
 There are ***TWO*** important things to keep in mind. 
 
