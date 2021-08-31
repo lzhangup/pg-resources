@@ -6,7 +6,17 @@ Please read the following articles on some basic advices for your post-grad stud
 - [给研究生的一些忠告](http://sixf.org/files/others/ModestAdvice.pdf)
 - [作为研究生，这些你都做到了吗?](https://mp.weixin.qq.com/s/A-9HTiefweSP1CvJrcSirA)
 
-## LaTeX related guides
+## How to choose your research topic
+
+## How to find information
+
+## How to read and get organised
+
+## How to publish
+
+### Guides on academic publishing
+
+### LaTeX related guides
 LaTeX is the mostly used typeseting tool for scientific writing. Please familiarise yourself with this. Your thesis/dissertation and articles should be typeseted using LaTeX.
 
 - [First guide to LaTeX](https://mirrors.nic.cz/tex-archive/info/lshort/english/lshort.pdf)
