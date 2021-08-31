@@ -15,9 +15,9 @@ Also read the following articles on some basic advices for your post-grad study:
 - [作为研究生，这些你都做到了吗?](https://mp.weixin.qq.com/s/A-9HTiefweSP1CvJrcSirA)
 
 ## How to choose a research topic
-There are --**two**-- important things to keep in mind. 
+There are ***TWO*** important things to keep in mind. 
 
-Firstly, check out the research interests of your supervisor if you already have one (**very important**). This is to make sure that you do not work on something your supervisor is unable/unwilling to provide guidance.
+Firstly, check out the research interests of your supervisor if you already have one (***very important***). This is to make sure that you do not work on something your supervisor is unable/unwilling to provide guidance.
 
 Secondly, take a look at the following slides from Marek J. Druzdzel to get an idea about what makes a good topic: [How to Identify a Good Research Topic? (A personal view)](https://sites.pitt.edu/~peterb/3005-001/L5.pdf).
 
@@ -34,7 +34,7 @@ You can also check out others tools like [JabRef](https://www.jabref.org/), EndN
 Communicating with others effectively is part of our survive skills. The same applies to academics (of course😀). In the academic world, researchers often need to communicate their findings to others and receive feedbacks. This includes attending seminars, workshops and conferences, and publishing articles in journals and magzines.
 
 ### Guides on attending meetings
-**Preparation** is the key to attending group seminars, workshops and conferences, as is for anything. Be prepared allows you to focus on the topics that you are interested in, ask questions that concerns you the most, and communicate effectively with others.
+***Preparation*** is the key to attending group seminars, workshops and conferences, as is for anything. Be prepared allows you to focus on the topics that you are interested in, ask questions that concerns you the most, and communicate effectively with others.
 
 [Here](https://mp.weixin.qq.com/s/HTYUcEjPggHgrTHJHqsTQw) is an interesting article on attendinig international conferences which also offers some useful advices.
 
@@ -54,7 +54,7 @@ The ***most important*** things are summarised below:
 
 
 ### LaTeX related guides
-LaTeX is the mostly used typeseting tool for scientific writing. Please familiarise yourself with this. Your thesis/dissertation and articles should be typeseted using LaTeX.
+LaTeX is the mostly used typeseting tool for scientific writing. Please familiarise yourself with this. Your thesis/dissertation and articles should be typeseted using LaTeX if possible.
 
 - [First guide to LaTeX](https://mirrors.nic.cz/tex-archive/info/lshort/english/lshort.pdf)
 - [LaTeX editor](https://github.com/lzhangup/pg-resources/files/6258028/LaTeX.Sublime.Text.pdf)
