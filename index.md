@@ -22,10 +22,10 @@ Firstly, check out the research interests of your supervisor if you already have
 Secondly, take a look at the following slides from Marek J. Druzdzel to get an idea about what makes a good topic: [How to Identify a Good Research Topic? (A personal view)](https://sites.pitt.edu/~peterb/3005-001/L5.pdf).
 
 ## How to find information
-The source of information can be the internet, academic databases, libraries, etc. In most cases, you are going to use a combination of these sources. Read [this guide](https://www.open.ac.uk/libraryservices/documents/advanced-search-techniques.pdf) on how to search databases effectively.
+The source of information can be the internet, academic databases, libraries, etc. In most cases, you are going to use a combination of these sources. There is a quite lengthy book on this matter: [How to Find Information: A Guide for Researchers](https://www.mheducation.co.uk/how-to-find-information-a-guide-for-researchers-9780335226313-emea-group). However, you can read [this guide](https://www.open.ac.uk/libraryservices/documents/advanced-search-techniques.pdf) on how to search databases effectively.
 
 ## How to read and get organised
-
+Recording keeping is vital in the process of your study. Being keeping a good record of articles you retrived at the information gathering stage, your notes on a specific paper, or your study progress. Failing to do so may result in headaches and wasting of time for days or months. To this regards, there are several free tools that could help you out. For bibliographic reference managment, I personally recommend [Mendeley](https://www.mendeley.com/download-desktop-new/). [This website](https://www.mendeley.com/guides) and [this guide](https://stglibrary.files.wordpress.com/2018/07/how-to-use-mendeley-a-step-by-step-guide.pdf) are useful resources to help you get started with Mendeley. You can also check out others tools like [JabRef](https://www.jabref.org/), EndNote (you can get a copy of this proprietary software through the library service I think), etc.
 ## How to publish
 
 ### Guides on academic publishing
