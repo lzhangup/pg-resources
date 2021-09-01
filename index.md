@@ -46,9 +46,9 @@ Publishing an article requires hard work not only on how to identify a good rese
 
 Again, there are many books on scientific writing and publishing. For example, here are two books that provide all-around guidance on this matter:
 - [Scientific Writing and Communication Papers, Proposals, and Presentations by Angelika H. Hofmann](https://www.amazon.com/Scientific-Writing-Communication-Proposals-Presentations/dp/0190278544)
-- [THE SCIENTIST’S GUIDE TO WRITING](https://press.princeton.edu/books/paperback/9780691170220/the-scientists-guide-to-writing)
+- [The Scientist's Guide to Writing](https://press.princeton.edu/books/paperback/9780691170220/the-scientists-guide-to-writing)
 
-This short book is more on writing styles, which is also very useful: [The Elements of Style](https://github.com/lzhangup/pg-resources/files/6258685/The.Elements.of.Style.2011.by.William.Strunk.Chris.Hong.pdf). Read this book over and over to improve your English writing skills. 
+This short book [The Elements of Style](https://github.com/lzhangup/pg-resources/files/6258685/The.Elements.of.Style.2011.by.William.Strunk.Chris.Hong.pdf) is more on writing styles, which is also very useful. Read this book over and over to improve your English writing skills. 
 
 The ***most important*** things are summarised below:
 1. You ***MUST*** discuss the _topic, authorship, and target journal_ of your paper with your supervisor before you start your investigation.
