@@ -70,4 +70,4 @@ LaTeX is the most used typesetting tool for scientific writing. Please familiari
 
 - You can find many books [here](https://z-lib.org). Please search "the Z-library project " to find the usable domain in your location in case this one does not work.
 
-[About this page](/README.html/)
+[About this page](./README.html/)
