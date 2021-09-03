@@ -21,7 +21,7 @@ Also, read the following articles on some basic advice for your post-grad study:
 In the following, I will try to answer some commonly asked questions about your post-grad studies. 
 
 # How to choose a research topic
-There are ***～TWO～THREE*** important things to keep in mind. 
+There are ***~~TWO~~THREE*** important things to keep in mind. 
 
 Firstly, ask yourself the following questions: 
 1. What interests me?
