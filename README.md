@@ -1,6 +1,6 @@
 ---
 title: About
-redirect:
+redirect_from: 
  - /README/
  - /README.html/
 ---
