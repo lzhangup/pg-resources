@@ -1,5 +1,5 @@
 ---
-Title: “Post-grad Guides”
+title: “Post-grad Guides”
 ---
 
 # Before you start
