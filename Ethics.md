@@ -18,4 +18,4 @@ Students must gain a full understanding of the terms covered under acadmic ethic
 ## What should I do?
 Students must avoid all misconducts included but not limited to Cheating, Plagiarism, Fabrication, and Falsification. All research projects must be done and reported fairly, honestly, transparently, and responsibly.
 
-***Most students have the problem not citing the correct source of information or citing WRONG sources.***
+***Most students have the problem of not citing the correct source of information or citing WRONG sources.***
