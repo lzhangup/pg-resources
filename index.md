@@ -21,12 +21,13 @@ Also, read the following articles on some basic advice for your post-grad study:
 In the following, I will try to answer some commonly asked questions about your post-grad studies. 
 
 # How to choose a research topic
-There are ***~~TWO~~THREE*** important things to keep in mind. 
+There are ***~~TWO~~ THREE*** important things to keep in mind. 
 
 Firstly, ask yourself the following questions: 
 1. What interests me?
 2. What do I want to do for a living in the near future?
-You answers to the above questions could give you first hints on what you are passionate about and what knowledge/skills are indispensible for your possible future career. With this information, you could then have a better understanding of your research interests. It would be great if the topic you will be working on during your MEng or PhD study is linked to your future career directly. But this is not alwasys possible and not necessary. As long as the methodologies involved in the topic are applicable to your envisioned work environment, you are good.
+
+You answers to the above questions could give you first hints on what you are passionate about and what knowledge/skills are indispensible for your future career. With this information, you could then have a better understanding of your research interests. It would be great if the topic you will be working on during your MEng or PhD study is linked to your future career directly. But this is not alwasys possible and not necessary. As long as the methodologies involved in the topic are applicable to your envisioned work environment, you are good.
 
 Secondly, check out the research interests of your supervisor if you already have one (***very important***). This is to make sure that you do not work on something your supervisor is unable/unwilling to provide guidance.
 
