@@ -62,11 +62,12 @@ This short book [The Elements of Style](https://github.com/lzhangup/pg-resources
 The ***most important*** things are summarised below:
 1. You ***MUST*** discuss the _topic, authorship, and target journal_ of your paper with your supervisor before you start your investigation.
 2. You ***MUST*** get _approval_ from your supervisor to submit the paper produced as a result of your post-grad study for publication. You do not need to do this if you are submitting a paper that is NOT on the findings of your current post-grad study. In the latter case, you may NOT include your current supervisor in your author list unless prior permission is obtained.
-3. Whatever findings you are publishing ***MUST*** be _quantifiable, verifiable, replicable, and defensible_. Academic dishonesty and plagiarism will result in serious consequences. More on academic ethics and plagiarism can be found [here](./Ethics.html).
+3. Whatever findings you are publishing ***MUST*** be _quantifiable, verifiable, replicable, and defensible_. Academic dishonesty and plagiarism will result in serious consequences. More on academic ethics can be found [here](./Ethics.html).
 
 # Useful resources
 
 - You can find many books [here](https://z-lib.org). Please search "the Z-library project " to find the usable domain in your location in case this one does not work.
 
 [About this page](./README.html)
+
 [Guides on LaTeX](./LaTeX.html)
