@@ -21,14 +21,19 @@ Also, read the following articles on some basic advice for your post-grad study:
 In the following, I will try to answer some commonly asked questions about your post-grad studies. 
 
 # How to choose a research topic
-There are ***TWO*** important things to keep in mind. 
+There are ***～TWO～THREE*** important things to keep in mind. 
 
-Firstly, check out the research interests of your supervisor if you already have one (***very important***). This is to make sure that you do not work on something your supervisor is unable/unwilling to provide guidance.
+Firstly, ask yourself the following questions: 
+1. What interests me?
+2. What do I want to do for a living in the near future?
+You answers to the above questions could give you first hints on what you are passionate about and what knowledge/skills are indispensible for your possible future career. With this information, you could then have a better understanding of your research interests. It would be great if the topic you will be working on during your MEng or PhD study is linked to your future career directly. But this is not alwasys possible and not necessary. As long as the methodologies involved in the topic are applicable to your envisioned work environment, you are good.
 
-Secondly, take a look at the following slides from Marek J. Druzdzel to get an idea about what makes a good topic: [How to Identify a Good Research Topic? (A personal view)](https://sites.pitt.edu/~peterb/3005-001/L5.pdf).
+Secondly, check out the research interests of your supervisor if you already have one (***very important***). This is to make sure that you do not work on something your supervisor is unable/unwilling to provide guidance.
+
+Lastly, take a look at the following slides from Marek J. Druzdzel to get an idea about what makes a good topic: [How to Identify a Good Research Topic? (A personal view)](https://sites.pitt.edu/~peterb/3005-001/L5.pdf).
 
 # How to find information
-The source of information can be the internet, academic databases, libraries, etc. In most cases, you are going to use a combination of these sources. There is a quite lengthy book on this matter: [How to Find Information: A Guide for Researchers](https://www.mheducation.co.uk/how-to-find-information-a-guide-for-researchers-9780335226313-emea-group). However, you can read [this guide](https://www.open.ac.uk/libraryservices/documents/advanced-search-techniques.pdf) on how to search databases effectively.
+The source of information can be the internet, academic databases, libraries, etc. In most cases, you are going to use a combination of these sources. There is a quite lengthy book on this matter: [How to Find Information: A Guide for Researchers](https://www.mheducation.co.uk/how-to-find-information-a-guide-for-researchers-9780335226313-emea-group). I highly recommend scanning through this book. At least, you should read [this guide](https://www.open.ac.uk/libraryservices/documents/advanced-search-techniques.pdf) on how to search databases effectively.
 
 # How to read and get organised
 Recording keeping is vital in the process of your study. Being keeping a good record of articles you retrieved at the information gathering stage, your notes on a specific paper, or your study progress. Failing to do so may result in headaches and wasting of time for days or months. 
@@ -56,18 +61,11 @@ This short book [The Elements of Style](https://github.com/lzhangup/pg-resources
 The ***most important*** things are summarised below:
 1. You ***MUST*** discuss the _topic, authorship, and target journal_ of your paper with your supervisor before you start your investigation.
 2. You ***MUST*** get _approval_ from your supervisor to submit the paper produced as a result of your post-grad study for publication. You do not need to do this if you are submitting a paper that is NOT on the findings of your current post-grad study. In the latter case, you may NOT include your current supervisor in your author list unless prior permission is obtained.
-3. Whatever findings you are publishing ***MUST*** be _quantifiable, verifiable, replicable, and defensible_. Academic dishonesty and plagiarism will result in serious consequences. 
-
-
-## LaTeX related guides
-LaTeX is the most used typesetting tool for scientific writing. Please familiarise yourself with this. Your thesis/dissertation and articles should be typeset using LaTeX if possible.
-
-- [First guide to LaTeX](https://mirrors.nic.cz/tex-archive/info/lshort/english/lshort.pdf)
-- [LaTeX editor](https://github.com/lzhangup/pg-resources/files/6258028/LaTeX.Sublime.Text.pdf)
-- [LaTeX图形](http://www.ctex.org/documents/latex/graphics/node2.html)
+3. Whatever findings you are publishing ***MUST*** be _quantifiable, verifiable, replicable, and defensible_. Academic dishonesty and plagiarism will result in serious consequences. More on academic ethics and plagiarism can be found [here](./Ethics.html).
 
 # Useful resources
 
 - You can find many books [here](https://z-lib.org). Please search "the Z-library project " to find the usable domain in your location in case this one does not work.
 
 [About this page](./README.html)
+[Guides on LaTeX](./LaTeX.html)
