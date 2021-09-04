@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home Page
-sidebar: toc
+# sidebar: toc
 ---
 
 - [Welcome Message](./welcome.html)
