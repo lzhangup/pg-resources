@@ -28,7 +28,7 @@ At this point of time, you should have realised that your post-grad study is a r
 - Draw conclusions
 - Communicate your findings to others
 
-To clarify further, you will need to go through the following steps to complete you MEng/PhD study (You many skip steps 1-4 if you come prepared) in a nutshell.
+To clarify further, you will need to go through the following steps to complete you MEng/PhD study (You may skip steps 1-4 if you come prepared) in a nutshell.
 
 **Step 1**. Choose a research field (can be a bit broad at this stage). Refer to [How to choose a topic](./choosetopic.html) for guidance.
 
