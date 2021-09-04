@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Welcome Message
 redirect_from: 
  - /welcome/

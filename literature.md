@@ -1,4 +1,5 @@
 ---
+layout: default
 title: How to find information and conduct literature review
 redirect_from: 
  - /literature/
