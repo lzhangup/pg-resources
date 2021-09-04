@@ -55,7 +55,8 @@
           <h2>{{ site.data.navigation.docs_list_title }}</h2>
           <ul>
             {% for item in site.data.navigation.toc %}
-            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+            <li><a class="{% if page.url == item.rul%} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+            </li>
             {% endfor %}
           </ul>
         </nav>
