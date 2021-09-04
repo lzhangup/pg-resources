@@ -1,5 +1,5 @@
 ---
-title: How to choose a research topic
+title: How to find information
 redirect_from: 
  - /findinformation/
  - /findinformation.html
