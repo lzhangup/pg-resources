@@ -51,13 +51,20 @@
           .tar.gz file
         </a>
         {% endif %}
+        <nav>
+          <h2>{{ site.data.navigation.docs_list_title }}</h2>
+          <ul>
+            {% for item in site.data.navigation.toc %}
+            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
 
-        <h2>{{ site.data.navigation.docs_list_title }}</h2>
-        <ul>
-          {% for item in site.data.navigation.toc %}
-          <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-          {% endfor %}
-        </ul>
+        <style>
+          nav ul {
+            list-style: none;
+          }
+        </style>
 
         {% if site.github.is_project_page %}
         <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is
