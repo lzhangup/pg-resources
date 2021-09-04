@@ -58,6 +58,7 @@ If you managed to complete the above ten steps, well done and congratulations! Y
 # Useful resources
 
 - You can find many books [here](https://z-lib.org). Please search "the Z-library project " to find the usable domain in your location in case this one does not work.
+- The [ Griffith Health Writing & Reference Guide](https://sites.google.com/a/griffith.edu.au/griffith-health-writing-and-referencing-guide/home_2?authuser=0) presents some very good guidances on scientific writing and critical analysis.
 
 [About this page](./README.html)
 

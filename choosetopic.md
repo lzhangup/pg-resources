@@ -5,7 +5,7 @@ redirect_from:
  - /choosetopic.html
 ---
 
-# How to choose a research topic?
+# How to choose a research topic
 There are ***~~TWO~~ THREE*** important things to keep in mind. 
 
 Firstly, ask yourself the following questions: 
@@ -18,6 +18,6 @@ Secondly, check out the research interests of your supervisor if you already hav
 
 Lastly, take a look at the following slides from Marek J. Druzdzel to get an idea about what makes a good topic: [How to Identify a Good Research Topic? (A personal view)](https://sites.pitt.edu/~peterb/3005-001/L5.pdf).
 
-# How specific do I need to be?
+# How specific do I need to be
 There is no standard rule of telling this. The general rule is that the research question you have chosen must be of scientific merit, application relevance, and narrow enough to be solved within your available time and resources.
 

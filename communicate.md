@@ -1,5 +1,5 @@
 ---
-title: How to choose a research topic
+title: How to communicate your research
 redirect_from: 
  - /communicate/
  - /communicate.html
@@ -26,3 +26,11 @@ The ***most important*** things are summarised below:
 1. You ***MUST*** discuss the _topic, authorship, and target journal_ of your paper with your supervisor before you start your investigation.
 2. You ***MUST*** get _approval_ from your supervisor to submit the paper produced as a result of your post-grad study for publication. You do not need to do this if you are submitting a paper that is NOT on the findings of your current post-grad study. In the latter case, you may NOT include your current supervisor in your author list unless prior permission is obtained.
 3. Whatever findings you are publishing ***MUST*** be _quantifiable, verifiable, replicable, and defensible_. Academic dishonesty and plagiarism will result in serious consequences. More on academic ethics can be found [here](./Ethics.html).
+
+## Writing and reference guides
+The [ Griffith Health Writing & Reference Guide](https://sites.google.com/a/griffith.edu.au/griffith-health-writing-and-referencing-guide/home_2?authuser=0) presents some very good guidances on scientific writing and critical analysis.
+
+## Writing tools - LaTeX
+LaTeX is the most used typesetting tool for scientific writing. Please familiarise yourself with this. Your thesis/dissertation and articles should be typeset using LaTeX if possible.
+
+Visit [A short guide to LaTeX](./LaTeX.html) for more information.
