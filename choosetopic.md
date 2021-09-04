@@ -1,4 +1,5 @@
 ---
+layout: default
 title: How to choose a research topic
 redirect_from: 
  - /choosetopic/

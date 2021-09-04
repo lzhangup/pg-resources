@@ -1,4 +1,5 @@
 ---
+layout: default
 title: How to communicate your research
 redirect_from: 
  - /communicate/
