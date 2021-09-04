@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Lab Rules
-permalink: ./rules/
+redirect_from: 
+ - /rules/
+ - /rules.html
 ---
 To be updated.

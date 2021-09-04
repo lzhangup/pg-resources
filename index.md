@@ -6,7 +6,7 @@ title: Home Page
 - [Welcome Message](./welcome.html)
 - [Next Steps](./steps.html)
 - What to Expect
-- [Rights and Obligations](./rights/)
+- [Rights and Obligations](./rights.html)
 - Lab Rules
 - General Advices
 - [Useful Resources](./resources.html)

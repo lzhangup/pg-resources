@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Rights and Obligations
-permalink: ./rights/
+redirect_from: 
+ - /rights/
+ - /rights.html
 ---
 # Supervisor rights and obligations
 Supervisor(s) and/or co-supervisor(s) are obligated to 
