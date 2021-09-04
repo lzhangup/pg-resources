@@ -42,4 +42,4 @@ Students have the rights to
 - report the supervisor(s) to the falcuty should it be the case that the supervisor(s) failed to provide supervision to their studies or voilated any code of conducts of academic supervisors.
 
 
-^[1]: Note that each student can at most change his/her research topic ONCE during his/her entire study programme.
+^[1]: Note that each student can at most change his/her research topic **ONCE** during his/her entire study programme.
