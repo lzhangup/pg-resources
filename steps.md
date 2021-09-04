@@ -8,11 +8,11 @@ redirect_from:
 
 # What are the next steps
 At this point of time, you should have realised that your post-grad study is a research based one. The following is a general overview of what a research project entails:
-- Identify a research topic
-- Develop a research proposal detailing your research question, hypotheses, work plan, etc.
-- Conduct actual research work
-- Draw conclusions
-- Communicate your findings to others
+- identify a research topic;
+- develop a research proposal detailing your research question, hypotheses, and work plan;
+- conduct actual research work;
+- draw conclusions; and
+- communicate your findings to others.
 
 To clarify further, you will need to go through the following steps to complete you MEng/PhD study in a nutsheel (You may skip steps 1-4 if you come prepared).
 
