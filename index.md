@@ -32,7 +32,7 @@ To clarify further, you will need to go through the following steps to complete 
 
 **Step 1**. Choose a research field (can be a bit broad at this stage). Refer to [How to choose a topic](./choosetopic.html) for guidance.
 
-**Step 2**. Consult and critically evaluate the literature on the chosen topic to familiarise yourself with the *state-of-the-art* and identify **research gap(s)**. Refer to [How to find information](./findinformation.html) for guidance. You are required to **take notes of what you have read and report your progress regularly.**
+**Step 2**. Gather information and conduct a literature to familiarise yourself with the *state-of-the-art* and identify **research gap(s)**. Refer to [Literature review](./literature.html) for guidance. You are required to **take notes of what you have read and report your progress regularly.**
 
 **Step 3**. Choose a research topic based on research gaps identified. This now must be very **specific**. Refer to [How to choose a topic](./choosetopic.html) for guidance.
 
@@ -44,9 +44,9 @@ To clarify further, you will need to go through the following steps to complete 
 
 **Step 6**. Follow the work plan developed in your proposal to conduct actual research work. This may include but is not limited to *system modelling, data gathering, experiment design, algorithm selection/design, experiments, simulations, results analysis and interpretation*. Note that you will need to go through a number of the above steps iteratively in most cases.
 
-**Step 7**. Write up a **research article** detailing your findings and submit it for possible publication. Alternatively, you file a **patent registration application** based on your research findings. 
+**Step 7**. Write up a **research article** detailing your findings and submit it for possible publication. Alternatively, you file a **patent registration application** based on your research findings. Refer to [How to communicate your research](./communicate.html) for guidance.
 
-**Step 8**. Expand the research article or patent application you've written into a full-length **dissertation/thesis**.
+**Step 8**. Expand the research article or patent application you've written into a full-length **dissertation/thesis**. Refer to the school's requirements on how you should prepare this document.
 
 **Step 9**. Submit your thesis/dissertation for *external examination and oral defence*.
 
@@ -54,34 +54,6 @@ To clarify further, you will need to go through the following steps to complete 
 
 If you managed to complete the above ten steps, well done and congratulations! Your degree will now be awarded.
 
-
-# How to read and get organised
-Recording keeping is vital in the process of your study. Being keeping a good record of articles you retrieved at the information gathering stage, your notes on a specific paper, or your study progress. Failing to do so may result in headaches and wasting of time for days or months. 
-
-In this regard, several free tools could help you out. For bibliographic reference management, I recommend [Mendeley](https://www.mendeley.com/download-desktop-new/). [This website](https://www.mendeley.com/guides) and [this guide](https://stglibrary.files.wordpress.com/2018/07/how-to-use-mendeley-a-step-by-step-guide.pdf) are useful resources to help you get started with Mendeley. 
-
-You can also check out other tools like [JabRef](https://www.jabref.org/), EndNote (you can get a copy of this proprietary software through the library service I think), etc.
-# How to communicate your research
-Communicating with others effectively is part of our survival skills. The same applies to academics (of course😀). In the academic world, researchers often need to communicate their findings to others and receive feedback. This includes attending seminars, workshops and conferences, publishing articles in journals and magazines and so on.
-
-## Guides on attending meetings
-***Preparation*** is the key to attending group seminars, workshops and conferences, as is for anything. Be prepared allows you to focus on the topics that you are interested in, ask questions that concern you the most, and communicate effectively with others.
-
-[Here](https://mp.weixin.qq.com/s/HTYUcEjPggHgrTHJHqsTQw) is an interesting article on attending international conferences which also offers some useful advice.
-
-## Guides on academic publishing
-Publishing an article requires hard work not only on how to identify a good research question and finding answers to that question but also on writing up a report, which usually needs to go through iterations of revisions. For most of you, publishing an article is a compulsory requirement to confirm your degree. So, do pay special attention to publishing. My advice is to discuss with your supervisor at the beginning of your study (as early as you have identified your research topic).
-
-Again, there are many books on scientific writing and publishing. For example, here are two books that provide all-around guidance on this matter:
-- [Scientific Writing and Communication Papers, Proposals, and Presentations by Angelika H. Hofmann](https://www.amazon.com/Scientific-Writing-Communication-Proposals-Presentations/dp/0190278544)
-- [The Scientist's Guide to Writing](https://press.princeton.edu/books/paperback/9780691170220/the-scientists-guide-to-writing)
-
-This short book [The Elements of Style](https://github.com/lzhangup/pg-resources/files/6258685/The.Elements.of.Style.2011.by.William.Strunk.Chris.Hong.pdf) is more on writing styles, which is also very useful. Read this book over and over to improve your English writing skills. 
-
-The ***most important*** things are summarised below:
-1. You ***MUST*** discuss the _topic, authorship, and target journal_ of your paper with your supervisor before you start your investigation.
-2. You ***MUST*** get _approval_ from your supervisor to submit the paper produced as a result of your post-grad study for publication. You do not need to do this if you are submitting a paper that is NOT on the findings of your current post-grad study. In the latter case, you may NOT include your current supervisor in your author list unless prior permission is obtained.
-3. Whatever findings you are publishing ***MUST*** be _quantifiable, verifiable, replicable, and defensible_. Academic dishonesty and plagiarism will result in serious consequences. More on academic ethics can be found [here](./Ethics.html).
 
 # Useful resources
 
