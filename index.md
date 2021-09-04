@@ -2,7 +2,7 @@
 title: First Message
 ---
 
-# Before you start
+# Welcome/Before you start
 
 Now you have started your post-grad studies. Congratulations on your achievement so far and welcome to the academic world for the next three or more years! 
 
@@ -19,6 +19,20 @@ Also, read the following articles on some basic advice for your post-grad study:
 - [作为研究生，这些你都做到了吗?](https://mp.weixin.qq.com/s/A-9HTiefweSP1CvJrcSirA)
 
 In the following, I will try to answer some commonly asked questions about your post-grad studies. 
+
+# What are the next steps?
+In a nut shell, you will need to: 
+1. Choose a research field (can be a bit broad at this stage).
+2. Consult and critically evaluate literature on the chosen topic with the purposes of farmiliaring yourself with the state-of-the-art and identifing research gap(s). You are required to report your progress regularly.
+3. Choose a research topic based on research gaps identified. This now must be very ***specific***. 
+4. Consult more literature relevant to the specific topic you have chosen.
+5. Write up a research proposal detailing your literature review, research gap identified, proposed research question/topic, research methodology, and work plan. Here the research topic must be clearly defined in a 'question' with one or more 'hypothesis'. ***At this stage, you may opt to write up a review article.***
+5. Follow the work plan developed in your proposal to conduct actual research work. This may including but not limited to system modelling, data gathering, experiment design, algorithm selection/design, experiments, simulations, results analysis and interpretation. Note that you will need to go through a number the above steps iteratively in most cases.
+6. Write up a research article detailing your findings and submit it for possible publication.
+7. Expand the research article you've written into a full length dissertation/thesis.
+8. Pack all references, data, software etc. related to your research in a well organised folder structure and submit this with a documentation on how to use the resources therein to your supervisor.
+9. Submit your thesis/disseration for external examination and oral defense.
+10. If managed to this stage, well done and congratulations! Your degree will now be awarded.
 
 # How to choose a research topic
 There are ***~~TWO~~ THREE*** important things to keep in mind. 
