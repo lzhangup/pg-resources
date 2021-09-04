@@ -9,7 +9,7 @@ Supervisor(s) and/or co-supervisor(s) are obligated to
 - providing general safety tips and training for operation lab facilities;
 - providing day-to-day supervision and guidance on students' progresses;
 - compiling general rules and explaining these rules to students for the purpose of creatingi a fair, productive, and friendly environment;
-- listening to student needs and requests at times when necessary; and
+- listening to students' needs and requests at times when necessary; and
 - resolving disputes amongst students should that become an issue.
 
 Supervisor(s) and/or co-supervisor(s) has(have) the rights to:
