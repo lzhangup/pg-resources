@@ -22,17 +22,27 @@ In the following, I will try to answer some commonly asked questions about your 
 
 # What are the next steps?
 In a nut shell, you will need to: 
-***Step 1***. Choose a research field (can be a bit broad at this stage).
+**Step 1**. Choose a research field (can be a bit broad at this stage).
+
 **Step 2**. Consult and critically evaluate literature on the chosen topic with the purposes of farmiliaring yourself with the state-of-the-art and identifing research gap(s). You are required to report your progress regularly.
+
 **Step 3**. Choose a research topic based on research gaps identified. This now must be very ***specific***. 
-Step 4. Consult more literature relevant to the specific topic you have chosen.
-Step 5. Write up a research proposal detailing your literature review, research gap identified, proposed research question/topic, research methodology, and work plan. Here the research topic must be clearly defined in a 'question' with one or more 'hypothesis'. ***At this stage, you may opt to write up a review article.***
-Step 6. Follow the work plan developed in your proposal to conduct actual research work. This may including but not limited to system modelling, data gathering, experiment design, algorithm selection/design, experiments, simulations, results analysis and interpretation. Note that you will need to go through a number the above steps iteratively in most cases.
-Step 7. Write up a research article detailing your findings and submit it for possible publication.
-Step 8. Expand the research article you've written into a full length dissertation/thesis.
-Step 9. Pack all references, data, software etc. related to your research in a well organised folder structure and submit this with a documentation on how to use the resources therein to your supervisor.
-Step 10. Submit your thesis/disseration for external examination and oral defense.
-Step 11. If managed to this stage, well done and congratulations! Your degree will now be awarded.
+
+**Step 4**. Consult more literature relevant to the specific topic you have chosen.
+
+**Step 5**. Write up a research proposal detailing your literature review, research gap identified, proposed research question/topic, research methodology, and work plan. Here the research topic must be clearly defined in a 'question' with one or more 'hypothesis'. ***At this stage, you may opt to write up a review article.***
+
+**Step 6**. Follow the work plan developed in your proposal to conduct actual research work. This may including but not limited to system modelling, data gathering, experiment design, algorithm selection/design, experiments, simulations, results analysis and interpretation. Note that you will need to go through a number the above steps iteratively in most cases.
+
+**Step 7**. Write up a research article detailing your findings and submit it for possible publication.
+
+**Step 8**. Expand the research article you've written into a full length dissertation/thesis.
+
+**Step 9**. Pack all references, data, software etc. related to your research in a well organised folder structure and submit this with a documentation on how to use the resources therein to your supervisor.
+
+**Step 10**. Submit your thesis/disseration for external examination and oral defense.
+
+If managed to complete the above ten steps, well done and congratulations! Your degree will now be awarded.
 
 # How to choose a research topic
 There are ***~~TWO~~ THREE*** important things to keep in mind. 
