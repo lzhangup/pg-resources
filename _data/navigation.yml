@@ -1,5 +1,8 @@
-docs_list_title: ACME Documentation
+docs_list_title: Table of Contents
 toc:
+
+- title: Home
+  url: ./
 
 - title: Welcome
   url: ./welcome.html
