@@ -21,17 +21,28 @@ Also, read the following articles on some basic advice for your post-grad study:
 In the following, I will try to answer some commonly asked questions about your post-grad studies. 
 
 # What are the next steps?
-In a nutshell, you will need to go through the following steps to complete you MEng/PhD study (You many skip steps 1-4 if you come prepared).
+At this point of time, you should have realised that your post-grad study is a research based one. The following is a brief general overview of what a research project entails:
+- Identify a research topic
+- Develop a research proposal detailing your research question, hypothesises, work plan, etc.
+- Conduct actual research work
+- Draw conclusions
+- Communicate your findings to others
 
-**Step 1**. Choose a research field (can be a bit broad at this stage).
+To clarify further, you will need to go through the following steps to complete you MEng/PhD study (You many skip steps 1-4 if you come prepared) in a nutshell.
 
-**Step 2**. Consult and critically evaluate the literature on the chosen topic to familiarise yourself with the *state-of-the-art* and identify research gap(s). You are required to **report your progress regularly**.
+**Step 1**. Choose a research field (can be a bit broad at this stage). Refer to [here](./choosetopic.html) for guidance.
 
-**Step 3**. Choose a research topic based on research gaps identified. This now must be very ***specific***. 
+**Step 2**. Consult and critically evaluate the literature on the chosen topic to familiarise yourself with the *state-of-the-art* and identify **research gap(s)**. Refer to [here](./findinformation.html)
+You are required to **report your progress regularly.**
+
+**Step 3**. Choose a research topic based on research gaps identified. This now must be very ***specific***. Refer to [here](./choosetopic.html) for guidance.
 
 **Step 4**. Consult more literature relevant to the specific topic you have chosen.
 
-**Step 5**. Write up a **research proposal** detailing your *literature review, research gap identified, proposed research question/topic, research methodology, and work plan*. Here the research topic must be clearly defined in a **'question'** with one or more **'hypotheses'**. ***At this stage, you may opt to write up a review article.***
+**Step 5**. Write up a **research proposal** detailing your *literature review, research gap identified, proposed research question/topic, research methodology, and work plan*. Here the research topic must be clearly defined in a **'question'** with one or more **'hypotheses'**[^1]. **At this stage, you may opt to write up a review article.**
+
+[^1]: A hypothesis is "a supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation."
+--from Oxford Dictionary. A hypothesis is a prediction of consequences. It must be verifiable or falsifiable. It is neither too specific nor to general. It is considered valuable even if proven false. It is NOT moral or ethical questions.
 
 **Step 6**. Follow the work plan developed in your proposal to conduct actual research work. This may include but is not limited to *system modelling, data gathering, experiment design, algorithm selection/design, experiments, simulations, results analysis and interpretation*. Note that you will need to go through a number of the above steps iteratively in most cases.
 
@@ -45,21 +56,6 @@ In a nutshell, you will need to go through the following steps to complete you M
 
 If you managed to complete the above ten steps, well done and congratulations! Your degree will now be awarded.
 
-# How to choose a research topic
-There are ***~~TWO~~ THREE*** important things to keep in mind. 
-
-Firstly, ask yourself the following questions: 
-1. What interests me?
-2. What do I want to do for a living in the near future?
-
-You answers to the above questions could give you first hints on what you are passionate about and what knowledge/skills are indispensible for your future career. With this information, you could then have a better understanding of your research interests. It would be great if the topic you will be working on during your MEng or PhD study is linked to your future career directly. But this is not alwasys possible and not necessary. As long as the methodologies involved in the topic are applicable to your envisioned work environment, you are good.
-
-Secondly, check out the research interests of your supervisor if you already have one (***very important***). This is to make sure that you do not work on something your supervisor is unable/unwilling to provide guidance.
-
-Lastly, take a look at the following slides from Marek J. Druzdzel to get an idea about what makes a good topic: [How to Identify a Good Research Topic? (A personal view)](https://sites.pitt.edu/~peterb/3005-001/L5.pdf).
-
-# How to find information
-The source of information can be the internet, academic databases, libraries, etc. In most cases, you are going to use a combination of these sources. There is a quite lengthy book on this matter: [How to Find Information: A Guide for Researchers](https://www.mheducation.co.uk/how-to-find-information-a-guide-for-researchers-9780335226313-emea-group). I highly recommend scanning through this book. At least, you should read [this guide](https://www.open.ac.uk/libraryservices/documents/advanced-search-techniques.pdf) on how to search databases effectively.
 
 # How to read and get organised
 Recording keeping is vital in the process of your study. Being keeping a good record of articles you retrieved at the information gathering stage, your notes on a specific paper, or your study progress. Failing to do so may result in headaches and wasting of time for days or months. 
