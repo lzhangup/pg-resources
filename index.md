@@ -4,8 +4,8 @@ title: Home Page
 # sidebar: toc
 ---
 - [Welcome Message](./welcome.html)
+- [What to Expect](./expectation.html)
 - [Next Steps](./steps.html)
-- What to Expect
 - [Rights and Obligations](./rights.html)
 - [Lab Rules](./rules.html)
 - [General Advice](./advice.html)

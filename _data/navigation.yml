@@ -7,11 +7,20 @@ toc:
 - title: Welcome
   url: ./welcome.html
 
+- title: What to Expect
+  url: ./expectation.html
+
 - title: Next Steps
   url: ./steps.html
 
 - title: Rights & Obligations
   url: ./rights.html
+
+- title: Lab Rules
+  url: ./rules.html
+
+  - title: General Advice
+  url: ./advice.html
 
 - title: Useful Resources
   url: ./resources.html
