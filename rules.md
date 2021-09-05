@@ -6,7 +6,7 @@ redirect_from:
  - /rules.html
 ---
 # Attendence registor
-
+This is sample text.
 # Leaves
 
 # Safety and housekeeping
