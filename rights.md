@@ -15,7 +15,7 @@ Supervisor(s) and/or co-supervisor(s) are obligated to
 - resolve disputes amongst students should that become an issue.
 
 Supervisor(s) and/or co-supervisor(s) has(have) the rights to:
-- critically and fair evaluate the works of students and therefore to approve or disapprove  academic achievements made by students;
+- critically and fairly evaluate the works of students and therefore to approve or disapprove  academic achievements made by students;
 - report students who have not performed to the required level of their studies to the faculty; and
 - manage the general operation of the lab in terms of student activities related to their studies during working hours.
 
