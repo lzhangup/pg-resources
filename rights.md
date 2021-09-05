@@ -7,12 +7,12 @@ redirect_from:
 ---
 # Supervisor rights and obligations
 Supervisor(s) and/or co-supervisor(s) are obligated to 
-- fostering a productive study environment for students;
-- providing general safety tips and training for the operation of lab facilities;
-- providing day-to-day supervision and guidance on students' progresses;
-- compiling general rules and explaining these rules to students in order to create a productive and friendly environment;
-- listening to students' needs and requests at times when necessary; and
-- resolving disputes amongst students should that become an issue.
+- foster a productive study environment for students;
+- provide general safety tips and training for the operation of lab facilities;
+- provide day-to-day supervision and guidance on students' progresses;
+- compile general rules and explaining these rules to students in order to create a productive and friendly environment;
+- listen to students' needs and requests at times when necessary; and
+- resolve disputes amongst students should that become an issue.
 
 Supervisor(s) and/or co-supervisor(s) has(have) the rights to:
 - critically and fair evaluate the works of students and therefore to approve or disapprove  academic achievements made by students;
