@@ -16,6 +16,7 @@ Supervisor(s) and/or co-supervisor(s) are obligated to
 
 Supervisor(s) and/or co-supervisor(s) has(have) the rights to:
 - critically and fairly evaluate the works of students and therefore to approve or disapprove  academic achievements made by students;
+- prescribe and monitor specific training programmes designed according to a student's knowledge gaps;
 - report students who have not performed to the required level of their studies to the faculty; and
 - manage the general operation of the lab in terms of student activities related to their studies during working hours.
 
