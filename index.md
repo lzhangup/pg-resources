@@ -7,8 +7,8 @@ title: Home Page
 - [Next Steps](./steps.html)
 - What to Expect
 - [Rights and Obligations](./rights.html)
-- Lab Rules
-- General Advices
+- [Lab Rules](./rules.html)
+- [General Advice](./advice.html)
 - [Useful Resources](./resources.html)
 
 [About this page](./README.html)

@@ -5,4 +5,10 @@ redirect_from:
  - /rules/
  - /rules.html
 ---
-To be updated.
+# Attendence registor
+
+# Leaves
+
+# Safety and housekeeping
+
+# Progress reporting
