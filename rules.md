@@ -18,6 +18,7 @@ The following leaves are allowed.
 - Public holidays: for holidays mandated for PR China by the central government.
 - Causal leave: for flexible leaves with a valid excuse.
 - Sick leave: for seeing doctors and recovering from illness.
+- Vacation leave: for clearing your mind during the summer and winter recess periods.
 
 A student must apply for leave officially by writing to his/her supervisor or a dedicated deputy at least one day before the actual leave except for sick leave. One can apply for sick leave on the same day the leave is taken.
 # Safety and housekeeping
