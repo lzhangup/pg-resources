@@ -48,7 +48,7 @@ We, as individuals, also cannot know where others come from, what they have expe
 Keep growing a little bit every day and you will be a giant! The specialised educations we are getting today usually focus on a certain set of skills (speciality). It is especially easy for engineering schools to ignore the training needed for a person's internal growth. I highly recommend to **read at least one GOOD book that is not relevant to your studies at all but fascinates you every year**. Stay hungry!
 
 ## Keep fit
-Like it or not, you need to work out regularly to keep your body in shape and ensure you have the energy required for your life. Added benefits of regular exercise also include improving your mood, your sleep and your social life, etc. However, do not overdo it.
+Like it or not, you need to work out regularly to keep your body in shape and ensure you have the energy required for your life. Plus, regular exercise can improve your mood, your sleep, your social life, etc. However, do not overdo it.
 
 # For your career development
 The following contexts are more relevant to your career development but are also essential for your personal life.
@@ -60,7 +60,7 @@ Communicating with others is what we are doing on daily basis. There are two asp
 ## Time management
 You may find yourself constantly being distracted from your study in this information explosion era not only because of new tasks assigned to you, friends seeking support from you but also all sorts of information flying around, which may or may not concern you. This situation sadly will be even worst when you get into the work environment.
 
-Train yourself to manage your time effectively and being able to return your focus on your duties after distractions are the skills that you need to build up as a matter of urgency. Some tips on this include planning ahead for everything and using a to-do list management app (such as [滴答清单](https://dida365.com/)).
+Train yourself to manage your time effectively and being able to refocus on your duties after distractions are the skills that you need to build up as a matter of urgency. Some tips on this include planning ahead for everything and using a to-do list management app (such as [滴答清单](https://dida365.com/)).
 
 <!-- ## Productivities guides -->
 
