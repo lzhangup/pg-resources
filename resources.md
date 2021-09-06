@@ -44,6 +44,9 @@ If you are searching **academic** resources using Baidu, you are doomed🤣!
 ## Very good chennels
 - [3Blue1Brown](https://space.bilibili.com/88461692)
 
+## Language editing
+- [Grammarly](http://www.grammarly.com/)
+
 ## Mirror sites
 - [清华镜像](https://mirrors.tuna.tsinghua.edu.cn) 
 - [东北大学镜像](https://mirror.neu.edu.cn)
