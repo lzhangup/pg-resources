@@ -10,8 +10,10 @@ redirect_from:
 ## Search engines
 - [Google](www.google.com)
 - [Bing](www.bing.com)
+- [Duckduckgo](www.duckduckgo.com)
 - [Wikipedia](https://zh.wikipedia.org/zh-cn)
-If you ever try to search **academic** resources using Baidu, you'd better be prepared for the failure of your study🤣!
+
+If you are searching **academic** resources using Baidu, you'd better be prepared for the failure of your research🤣!
 
 ## E-books
 - You can find many books [here](https://z-lib.org). Please search "the Z-library project " to find the usable domain in your location in case this one does not work.
