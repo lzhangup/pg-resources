@@ -13,7 +13,7 @@ redirect_from:
 - [Duckduckgo](www.duckduckgo.com)
 - [Wikipedia](https://zh.wikipedia.org/zh-cn)
 
-If you are searching **academic** resources using Baidu, you'd better be prepared for the failure of your research🤣!
+If you are searching **academic** resources using Baidu, you are doomed🤣!
 
 ## E-books
 - You can find many books [here](https://z-lib.org). Please search "the Z-library project " to find the usable domain in your location in case this one does not work.
