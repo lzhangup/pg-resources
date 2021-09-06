@@ -8,6 +8,7 @@ title: Home Page
 - [Next Steps](./steps.html)
 - [Rights and Obligations](./rights.html)
 - [Lab Rules](./rules.html)
+- [Academic Integrity](./Ethics.html)
 - [General Advice](./advice.html)
 - [Useful Resources](./resources.html)
 
