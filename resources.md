@@ -7,6 +7,11 @@ redirect_from:
 ---
 
 # Useful resources
+## Search engines
+- [Google](www.google.com)
+- [Bing](www.bing.com)
+- [Wikipedia](https://zh.wikipedia.org/zh-cn)
+If you ever try to search **academic** resources using Baidu, you'd better be prepared for the failure of your study🤣!
 
 ## E-books
 - You can find many books [here](https://z-lib.org). Please search "the Z-library project " to find the usable domain in your location in case this one does not work.
