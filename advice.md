@@ -50,6 +50,9 @@ Keep growing a little bit every day and you will be a giant! The specialised edu
 ## Keep fit
 Like it or not, you need to work out regularly to keep your body in shape and ensure you have the energy required for your life. Plus, regular exercise can improve your mood, your sleep, your social life, etc. However, do not overdo it.
 
+## Stay strong
+Lastly, but most importantly, stay strong. We should always look forward to better times in dark days. And indeed, "what does not kill you makes stronger". We only have one life, so cherish it, experience it, and enjoy it.
+
 # For your career development
 The following contexts are more relevant to your career development but are also essential for your personal life.
 ## Communication skills
