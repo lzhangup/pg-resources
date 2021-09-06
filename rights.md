@@ -34,7 +34,7 @@ Students are obligated to:
 Students have the rights to
 - choose their research topics (with the approval of the supervisor)[^1];
 - obtain rewards for their outstanding works and achievements;
-- take at least TWO WEEKS' leave during the summer or winter recess period;
+- take at least TWO WEEKS' leave during the summer recess and at least TWO WEEKS' leave during the winter recess;
 - take flexible leaves should this be requested with an acceptable excuse;
 - apply for suspension or withdrawal of their studies;
 - be respected as an individual and be treated with respect and fairness;
