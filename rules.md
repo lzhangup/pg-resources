@@ -10,6 +10,8 @@ We need to discuss more details about this.
 
 In general, students are requested to be present in the lab **from 8am to 5:30pm (autumn) or 6:00pm (summer)**. Note that this time is far from what you need to spend on your study. It is a mere indication of your active enrollment at HUST.
 
+In most cases, we will be operating in a goal oriented environment where completing a task with high quality timely is valued more than your presence in the lab. Therefore, I do not have suggestions on how you should spend your time during off hours. You need to improve your time management skills and make suitable arrangements for yourself.
+
 # Leaves
 The following leaves are allowed.
 - Official absence: for conducting study related works off-campus approved by the supervisor.
