@@ -28,4 +28,4 @@ A student must apply for leave officially by writing to his/her supervisor or a 
 
 Students are requested to empty the dustbin **daily** and keep their workstations and/or labs neat and tidy.
 # Progress reporting
-Students are requested to report to their supervisors **at least once every two weeks**. This report must include a **written document** explaining what the student has achieved so far the work plans for the coming weeks.
+Students are requested to report to their supervisors **at least once every two weeks**. This report must include a **written document** explaining what the student has achieved so far and the work plans for the coming weeks.
