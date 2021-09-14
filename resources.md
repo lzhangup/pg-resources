@@ -8,9 +8,9 @@ redirect_from:
 
 # Useful resources
 ## Search engines
-- [Google](www.google.com)
-- [Bing](www.bing.com)
-- [Duckduckgo](www.duckduckgo.com)
+- [Google](https://www.google.com)
+- [Bing](https://www.bing.com)
+- [Duckduckgo](https://www.duckduckgo.com)
 - [Wikipedia](https://zh.wikipedia.org/zh-cn)
 
 If you are searching **academic** resources using Baidu, you are doomed🤣!
