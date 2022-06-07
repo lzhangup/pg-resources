@@ -12,7 +12,7 @@ Now you have started your post-grad studies. Congratulations on your achievement
 
 A friendly reminder that this means a lot of responsibility and hard work. Shame! But, there are also bright sides of your decision. You will learn many useful specialised knowledge and life skills to live a better life (possibly)!
 
-A second reminder is to check out the most important difference between a research-based post-grad programme and the school and undergrad education programmes from Prof Matt Might [here](https://matt.might.net/articles/phd-school-in-pictures/). Most importantly, 
+A second reminder is to check out the most important difference between a research-based post-grad programme and undergrad education programmes from Prof Matt Might [here](https://matt.might.net/articles/phd-school-in-pictures/). Most importantly, 
 > research involves *finding out about things that no-one else knew either*. It is about advancing the *frontiers* of knowledge.
 
 By the way, he also published several useful guides for post-grad students on topics ranging from productivity, useful resources, and even job hunting. You can find them all from the same website.
