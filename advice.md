@@ -30,7 +30,7 @@ The following are the most important tips copied from [this website](https://www
 9. **Be assertive when necessary but respect the right of others to be assertive too**.  (See our pages on Assertiveness for more.)
 10. **Avoid gossip**.  Try to have positive things to say about other people.
 11. **Apologise for your mistakes**.  If you say or do something that may be considered rude or embarrassing then apologise, but don’t overdo your apologies. 
-12. ** Respect**, and be prepared to listen to, the ideas and opinions of others.
+12. **Respect**, and be prepared to listen to, the ideas and opinions of others.
 13. **Dress appropriately for the situation**.  Avoid wearing revealing clothing in public and avoid staring at others who are wearing revealing clothing.  Avoid being dressed too casually for the situation. 
 14. **Be punctual**.  If you have arranged to meet somebody at a certain time make sure you are on time, or even a few minutes early.  If you are going to be late let the other person/people know as far in advance as you can.  Do not rely on feeble or exaggerated excuses to explain lateness.  Respect other people’s time and don’t waste it. 
 
