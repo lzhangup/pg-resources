@@ -12,7 +12,7 @@ Here is some general advice for your personal development. You may or may not ag
 ## Be a human
 Sure, we have been trained for years to become an engineer, which is tempting us to see ourselves differently. Down in the gene, however, we are all human.
 
-Being a human is a gift and a disaster at the same time. On the one hand, we are the most intelligent animal (as far we know) living on earth. We are privileged to have the single biggest impact on the future of the world we are living in. We are so powerful to shape the future! On the other hand, we are so helpless in many situations where the social and/or ecological environment easily outpowers us.
+Being a human is a gift and a disaster at the same time. On the one hand, we are the most intelligent animal (as far as we know) living on earth. We are privileged to have the single biggest impact on the future of the world we are living in. We are so powerful to shape the future! On the other hand, we are so helpless in many situations where the social and/or ecological environment easily outpowers us.
 
 Finding our peace in such a dynamic world is thus an ever-increasing challenge especially in this experience age. I can't say what we need to do with this respect as we are all struggling with the same thing. However, the following tips might help and I highly recommend practising them.
 
