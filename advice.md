@@ -61,7 +61,7 @@ Communicating with others is what we are doing on daily basis. There are two asp
 - Second, communication also needs skills. It is worth checking out [Noneviolente Communication](https://item.jd.com/12419935.html).
 
 ## Time management
-You may find yourself constantly being distracted from your study in this information explosion era not only because of new tasks assigned to you, friends seeking support from you but also all sorts of information flying around, which may or may not concern you. This situation sadly will be even worst when you get into the work environment.
+You may find yourself constantly being distracted from your study in this information explosion era not only because of new tasks assigned to you, friends seeking support from you but also all sorts of information flying around, which may or may not concern you. This situation sadly will be even worse when you get into the work environment.
 
 Train yourself to manage your time effectively and being able to refocus on your duties after distractions are the skills that you need to build up as a matter of urgency. Some tips on this include planning ahead for everything and using a to-do list management app (such as [滴答清单](https://dida365.com/)).
 
